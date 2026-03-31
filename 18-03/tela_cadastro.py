@@ -82,5 +82,7 @@ class TelaCadastro(ctk.CTkFrame):
 if __name__ == '__main__':
     app = TelaCadastro()
     app.mainloop()
+
+    '13:00'.split(':') # ['13', '00']
     
 
